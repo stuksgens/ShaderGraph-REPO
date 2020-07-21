@@ -12,7 +12,7 @@ R: Claro, todas as shaders disponibilizadas aqui estão livres para serem usadas
 
 * Minha shader não está funcionando.
 
-R: Verifique se você está usando a versão mais recente (estável) do shader graph. Todas as shaders disponibilizadas aqui são testadas nas versões mais recentes do Unity para que você não tenha problemas ao usá-las.
+R: Verifique se você está usando a versão mais recente (estável) do shader graph. Todas as shaders disponibilizadas aqui são testadas nas versões mais recentes do Unity para que você não tenha problemas ao usá-las. Caso ainda esteja com problema nos avise para que possamos te ajudar.
 
 * Preciso de uma shader especifica que ainda não existe no repositório.
 
@@ -20,7 +20,7 @@ R: Basta fazer um novo issues requisitando. Estamos sempre abertos a novas ideia
 
 * Tenho shaders para compartilhar, como faço?
 
-R: Basta enviar um Pull request para que possamos analisar e adicionar ao nosso repositório.
+R: Basta enviar um Pull Request para que possamos analisar e adicionar ao nosso repositório.
 
 * Tem algum tutorial ensinando como usar algumas shaders?
 
