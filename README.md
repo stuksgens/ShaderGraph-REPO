@@ -7,10 +7,10 @@ Esse repositório trabalha sempre com a versão mais recente do Shader graph, e 
 
 # FAQ
 
-* **Possa usar as shaders em meu jogo?**
+* **Possa usar as shaders em meu projeto?**
 
 R: Claro, todas as shaders disponibilizadas aqui estão livres para serem usadas em qualquer jogo
-(Sem Royalty, e totalmente gratuito), basta dar a devido credito ao criador.
+(Sem Royalty, e totalmente gratuito), basta dar o devido credito ao criador.
 
 * **Minha shader não está funcionando.**
 
