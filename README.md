@@ -20,6 +20,10 @@ The ShaderGraph-REPO project is an OpenSouce project, where we aim to share seve
 
 ### Versioning / Versionamento
 
+
+**Want to know what's new in the latest version? [click here](Versions.md)**
+
+
 This repository always works with the latest version of Shadergraph, and all shaders shared here are tested "in battle" so that you have no problems using them.
 
 Esse repositório trabalha sempre com a versão mais recente do Shadergraph, e todas as shaders compartilhadas aqui são testadas "em batalha" para que não tenha problemas na utilização.
