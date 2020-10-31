@@ -10,6 +10,12 @@
 
 > Repository for sharing shaders, help us to increase this repository.
 
+Do you need help creating your own custom shaders for your games? This bundle of shaders contains everything you need to create any style of game.
+
+The ShaderGraph-REPO project is an OpenSouce project, where we aim to share several examples of different shaders, where anyone can share and use their shaders. 
+
+> All shaders are based on the ShaderGraph. (All graphs included)
+
 
 
 ### Versioning / Versionamento
