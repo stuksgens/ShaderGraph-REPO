@@ -4,7 +4,7 @@
 
 
 ##
-## v1.3 (In search/in progress)
+## v1.3 (In search)
 
 > These are shaders that are under research, and may or may not be added in a future version
 
@@ -15,7 +15,7 @@
 
 
 ##
-## v1.2 (release)
+## v1.2 (in progress)
 
 ### effects included:
 
@@ -32,7 +32,7 @@
 
 
 ##
-## v1.1 (Internal release)
+## v1.1.1 (Internal release)
 
 ### changes:
 
