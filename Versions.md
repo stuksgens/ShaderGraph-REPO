@@ -50,5 +50,5 @@ Reorganization of graphics
 ### effects included:
 
 - Fresnel Effect
-- To dissolve
+- Dissolve
 - Hologram
