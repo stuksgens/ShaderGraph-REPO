@@ -8,6 +8,9 @@
 
 > These are shaders that are under research, and may or may not be added in a future version
 
+
+### effects included:
+
 - Complex water shader
 - Toon Shader (Water + BaseColor)
 - Cartoon Shader
