@@ -8,12 +8,12 @@ Abaixo listamos a lista de shaders incluidas no pacote atualmente
 
 ## Dissolve
 
-![Dissolve](https://github.com/stuksgens/ShaderGraph-REPO/blob/Curse/screenshot/Dissolver.png?raw=true)
+![Dissolve](/screenshot/Dissolver.png)
 
 ## Fresnel
 
-![Fresnel](https://github.com/stuksgens/ShaderGraph-REPO/blob/Curse/screenshot/Fresnel.png?raw=true)
+![Fresnel](/screenshot/Fresnel.png)
 
 ## Holograma
 
-![Holograma](https://github.com/stuksgens/ShaderGraph-REPO/blob/Curse/screenshot/Holograma.png?raw=true)
+![Holograma](/screenshot/Holograma.png)
